@@ -39,7 +39,7 @@ Outputnya, yaitu dengan syntax/source code berikut :
   
   ![output_biodata.png](Pic/output_biodata.png)
   
-*Keterangan :
+Keterangan :
    
   > Fungsi \n pada source code diatas adalah untuk memberi baris baru / enter / (newline).
    
