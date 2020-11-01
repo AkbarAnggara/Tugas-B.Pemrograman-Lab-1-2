@@ -174,4 +174,4 @@ Kita akan coba lagi untuk run file tersebut, maka akan muncul seperti gambar dib
  
  # =======Arigatou Gozaimasu========
  # Bangkit Akbar Anggara/312010148/TI.20.B.1
- # ======Ja Matane Minna-san========
+ # ======SEKIAN========
