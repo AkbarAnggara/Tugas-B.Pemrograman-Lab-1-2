@@ -14,7 +14,7 @@ Pada pertemuan 5 Bahasa Pemrograman, saya diberi tugas oleh Dosen untuk membuat 
   
   ![tugas_pertemuan5.PNG](Pic/tugas_pertemuan5.PNG)
   
-Saat ini saya akan menjelaskan hasil dari tugas tersebut berikut source code nya:
+Saat ini saya akan menjelaskan hasil dari tugas tersebut berikut codingan syntaxnya:
   
   ![biodata.PNG](Pic/biodata.PNG)
   
