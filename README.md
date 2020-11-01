@@ -22,11 +22,11 @@ Saat ini saya akan menjelaskan hasil dari tugas tersebut berikut source code nya
     
     print("====Biodata====")
   
-   Source code diatas berfungsi untuk mencetak hasil / output berupa "====Biodata====".
+  > Source code diatas berfungsi untuk mencetak hasil / output berupa "====Biodata====".
    
    ![output_print.PNG](Pic/output_print.PNG)
   
-   Untuk menampilkan output, saya menggunakan tanda petik dua didalam fungsi print("")
+  > Untuk menampilkan output, saya menggunakan tanda petik dua didalam fungsi print("")
    
    ![input_data.PNG](Pic/input_data.PNG)
 
@@ -41,11 +41,11 @@ Outputnya, yaitu dengan syntax/source code berikut :
   
 *Keterangan :
    
-   1.Fungsi \n pada source code diatas adalah untuk memberi baris baru / enter / (newline).
+  > Fungsi \n pada source code diatas adalah untuk memberi baris baru / enter / (newline).
    
-   2.Fungsi huruf f pada perintah print(f"...") adalah fungsi print atau bisa memudahkan programmer dalam mencetak statement dalam satu baris.
+  > Fungsi huruf f pada perintah print(f"...") adalah fungsi print atau bisa memudahkan programmer dalam mencetak statement dalam satu baris.
    
-   3.Sedangkan fungsi , pada output tersebut adalah untuk menampilkan hasil dari outputnya
+  > Sedangkan fungsi , pada output tersebut adalah untuk menampilkan hasil dari outputnya
      Hasil dari output tersebut seperti berikut :
    
    ![output_data.PNG](Pic/output_data.PNG)
@@ -73,31 +73,31 @@ Hasil dari source code di atas seperti gambar dibawah ini :
 
 Penggunaan Separator Separator adalah pemisah yang berfungsi sebagai tanda pemisah antar objek yang dicetak. Defaultnya adalah tanda spasi.
   
-  Pendeklarasian beberapa variable beserta nilainya
+ > Pendeklarasian beberapa variable beserta nilainya
 
-    w,x,y,z=10,15,20,25
+     w,x,y,z=10,15,20,25
   
-  Menampilkan hasil dari variable tiap-tiap variable
+ > Menampilkan hasil dari variable tiap-tiap variable
 
-    print(w,x,y,z)
+     print(w,x,y,z)
   
-  Menampilkan hasil dari tiap-tiap variable dengan menggunakan pemisah , (koma)
+ > Menampilkan hasil dari tiap-tiap variable dengan menggunakan pemisah , (koma)
 
-    print(w,x,y,z,sep=",")
+     print(w,x,y,z,sep=",")
   
-  Menampilkan hasil dari tiap-tiap variable tanpa menggunakan pemisah
+ > Menampilkan hasil dari tiap-tiap variable tanpa menggunakan pemisah
 
-    print(w,x,y,z,sep="")
+     print(w,x,y,z,sep="")
   
-  Menampilkan hasil dari tiap-tiap variable dengan menggunakan pemisah : (titik dua)
+ > Menampilkan hasil dari tiap-tiap variable dengan menggunakan pemisah : (titik dua)
 
-    print(w,x,y,z,sep=":")
+     print(w,x,y,z,sep=":")
   
-  Menampilkan hasil dari tiap-tiap variable dengan menggunakan pemisah -----
+ > Menampilkan hasil dari tiap-tiap variable dengan menggunakan pemisah -----
 
-    print(w,x,y,z,sep="-----")
+     print(w,x,y,z,sep="-----")
   
-  Hasil dari syntax / source code diatas adalah seperti berikut ini :
+ > Hasil dari syntax / source code diatas adalah seperti berikut ini :
  
    ![hasil2.PNG](Pic/hasil2.PNG)
     
@@ -111,7 +111,7 @@ Penggunaan source code yang diberikan oleh dosen seperti berikut :
 
   ![tugas_lab1-2.PNG](Pic/tugas_lab1-2.PNG)
 
-*String Format 1
+String Format 1
 
    Pada syntax / source code string format 1 akan menampilkan output berupa 2 outputan.
    Yang pertama (sebelah kiri) akan menampilkan angka Urut dari angka 0 hingga angka 10, sedangkan untuk sebelah kanan akan menampilkan Operasi Aritmatika Pangkat.
@@ -122,7 +122,7 @@ Penggunaan source code yang diberikan oleh dosen seperti berikut :
     
    ![hasil_string1.PNG](Pic/hasil_string1.PNG)
 
-*String Format 2
+String Format 2
    
    Pada syntax atau source code string format 2 akan menampilkan output berupa 2 output'an juga (seperti String Format 1, yaitu kanan dan kiri)
    Dengan ketentuan sebagai berikut :
@@ -173,5 +173,5 @@ Kita akan coba lagi untuk run file tersebut, maka akan muncul seperti gambar dib
  Setelah semua file sudah berhasil, maka selesai sudah Tugas Pertemuan 6 - Bahasa Pemrograman kali ini.
  
  # =======Arigatou Gozaimasu========
- # Bangkit Akbar Anggara
- # ======Ja Matane Minas-san========
+ # Bangkit Akbar Anggara/312010148/TI.20.B.1
+ # ======Ja Matane Minna-san========
