@@ -172,6 +172,6 @@ Kita akan coba lagi untuk run file tersebut, maka akan muncul seperti gambar dib
  
  Setelah semua file sudah berhasil, maka selesai sudah Tugas Pertemuan 6 - Bahasa Pemrograman kali ini.
  
- # =======Arigatou Gozaimasu========
+ # ===Arigatou Gozaimasu===
  # Bangkit Akbar Anggara/312010148/TI.20.B.1
- # ======SEKIAN========
+ # ===SEKIAN===
