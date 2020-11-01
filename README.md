@@ -30,7 +30,7 @@ Saat ini saya akan menjelaskan hasil dari tugas tersebut berikut codingan syntax
    
    ![input_data.PNG](Pic/input_data.PNG)
 
-Untuk menghitung rumus umur saya menggunakan variable dob yaitu 2020 (Tahun Sekarang) dikurangi dengan Year of Birth, pada source code berikut :
+Untuk menghitung rumus umur saya menggunakan variable dob yaitu 2020 (Tahun Sekarang) dikurangi dengan tahun, pada syntax berikut :
   
   ![dob.PNG](Pic/dob.PNG)
   
@@ -158,11 +158,11 @@ Kita akan terfokus pada variable a dan b.
 
 Pada line 1 tertulis syntax : a=input("Masukkan Nilai A : ")
 
-Sedangkan pada line 2 tertulis sytax : b=input("Masukkan Nilai B : ")
+Sedangkan pada line 2 tertulis syntax : b=input("Masukkan Nilai B : ")
 
 Untuk membuat inputan berupa interger/angka harus ditambahkan syntax int() pada format input(). Yang seharusnya ditulis adalah :
 
-Kita akan ulangi semua sintax pada file ini seperti gambar di bawah ini:
+Kita akan ulangi semua syntax pada file ini seperti gambar di bawah ini:
 
  ![lab2.PNG](Pic/lab2.PNG)
   
