@@ -1,10 +1,8 @@
 # Tugas - Bahasa Pemrograman
 
 
- Nama : Bangkit Akbar Anggara
- 
- NIM : 312010148
- 
+ Nama : Bangkit Akbar Anggara<br>
+ NIM : 312010148<br>
  Kelas : TI.20.B.1
 
 # DAFTAR ISI <br>
